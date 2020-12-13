@@ -19,7 +19,7 @@ git clone https://github.com/rickdevbr-io/gestaocovid.git
 
 - Passo3: No PostgreSQL local crie o database fiap;
 
-- Passo4: Execute o boot do projeto;
+- Passo4: Execute o boot dos projetos;
 ```
 mvn run
 ```
