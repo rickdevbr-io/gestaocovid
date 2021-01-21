@@ -1,7 +1,7 @@
 # Sobre :blue_book:
 Foi desenvolvida uma POC dentro do contexto: "Criar uma solução de auxílio ao combate do covid-19. Nesta solução há comumicação entre APIs onde uma cadastra as pessoas, seus sintomas e região e a segunda mostra a região mas carente na doação de sangue". A estruturação do código é em MVC cujos packages são separados por contexto de negócio, onde a codificação foi feita seguindo as exigências: codificação de visualização do desenvolvedor em inglês, texto de exibição para o cliente em português e seguir os principios S(Single Responsibility Principle) e O (Open Closed Principle) do paradigma O.O. Por familiaridade a linguagem adotada foi o java 8 com maven conectando-se ao Postgresql, um banco relacional open source. Para facilitar no gerenciamento dos scripts em banco foi escolhido o Flyway e para documentação da API o Swagger. Para praticar a ideia de low code foi usado o Lombok junto ao SpringBoot.
 
-# Tech Stag :clipboard:
+# Tech Stack :clipboard:
 - Java 8
 - Maven
 - Postgresql
